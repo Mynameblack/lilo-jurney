@@ -1,0 +1,14 @@
+.jumbotron{
+    background-image: url("WhatsApp Image 2022-12-14 at 14.17.22.jpeg");
+    background-attachment: fixed;
+    color:rgb(255, 255, 255);
+    background-size: cover;
+    background-position: 0 -50px;
+    height: 250px;
+    padding-bottom : 340px;
+    text-shadow: 100px;
+}
+
+section{
+    padding-top: 5rem;
+}
